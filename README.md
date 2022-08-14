@@ -166,3 +166,23 @@
 		- 他/她的依賴可能會令氣感到焦躁 Dependent behaviors can get on your nerve
 		- 他/她缺乏積極的行動可能會讓你感到氣餒 You can be frustrated with inactiveness
 
+## 情境卡
+1. 我可以幫忙 I can help this!
+	- 新成員難以適應我們的工作分配 A new member has difficult adapting to our work arrangements (3星)
+	- 我們因為意見不合而產生衝突 We have conflicts because of disagreements  (5星)
+	- 我們因為剛認識,所以相處時感到尷尬 We feel still awkward and do not get alone (3星)
+	- 我們無法準時完成工作 We can't complete our work on time (5星)
+	- 我們會議的成效不彰 We have unproductive meetings (4星)
+	- 我們需要一個優秀的領導者來主持會議 We need an excellent leader to chair the meeting (3星)
+	- 我們相處融洽, 但是工作效率不佳 We get along well, but with low working efficiency (3星)
+	- 我們會議的出席率很低 We have low attendance of meeting (4星)
+2. 當然會用得著我 Of course my help will be needed
+	- 我們一起準備簡報 We have to make presentation materials together (2星)
+	- 我們找一天辦個派對吧 Let's have a party (2星)
+	- 今天是大掃除的日子 Let's tidy up! (2星)
+	- 今天我們一起去旅行 We are going on a trip together today (2星)
+3. 我有所貢獻 I contributed to this
+	- 我們的隊伍在決賽中獲勝 We won first place (2星)
+	- 我們最先完成報告! We complete the report first! (2星)
+	- 我們在這次對話中相談甚歡! We just had a great conversation! (2星)
+	- 我們比賽中締造新的紀錄! We set a new record in the competition! (2星)
