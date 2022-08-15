@@ -17,23 +17,23 @@
 ## 卡片對照表
 
  |編號| 背面 | English |編號| 翻面     | Strength | 
- | --- | --- | --- | --- | --- | --- |
- | 74 | 害羞 | I'm shy | 49 | 待人溫柔 | I'm mild |
- | 100 | 行動前缺乏深思 | I act without thinking | 32 | 享受自我挑戰 | I enjoy challenging myself |
+ | --- | --- | --- | --- | --- | --- | 
+ | 74 | 害羞 | I'm shy | 49 | 待人溫柔 | I'm mild | 
+ | 100 | 行動前缺乏深思 | I act without thinking | 32 | 享受自我挑戰 | I enjoy challenging myself | 
  | 92 | 缺乏一致性 | I lack consistency | 40 | 享受改變 | I enjoy changes | 
  | 72 | 壓抑自我需要 | I suppress what I want to do | 48 | 善於忍耐 | I'm patient | 
- | 62 | 因素任而承受壓力 | I'm stressed out by responsibility | 08 | 責任感強 | I have a strong sense of responsibility |
- | 64 | 難以容忍雜亂無章 | I can't stand being disorganized | 09 | 善於組織 | I'm good at organizing |
- | 54 | 花很多時間做決定 | I take too much time to make decisions | 30 | 行動前會認真分析 | I think deeply first and then act
+ | 62 | 因素任而承受壓力 | I'm stressed out by responsibility | 08 | 責任感強 | I have a strong sense of responsibility | 
+ | 64 | 難以容忍雜亂無章 | I can't stand being disorganized | 09 | 善於組織 | I'm good at organizing | 
+ | 54 | 花很多時間做決定 | I take too much time to make decisions | 30 | 行動前會認真分析 | I think deeply first and then act | 
  | 97 | 容易失去興趣 | I easily lose interest | 31 | 勇於嘗試新事務 | I'm good at trying new things | 
  | 85 | 為討好他人而費心 | I try too hard to be kind to others | 12 | 待人親切 | I'm kind to other people | 
  | 91 | 容易感到沉悶 | I'm easily bored | 34 | 積極地面對新事物 | I'm energetic | 
  | 67 | 硬銷自己的意見 | I force my opinion on others | 01 | 自信地表達自己 | I express myself confidently | 
  | 81 | 提供過多協助或意見 | I give excessive help or advice to others | 13 | 有顆溫暖的心 | I have a warm heart | 
- | 61 | 固執 | I'm stubborn | 05 | 意志堅定 | I have strong will  | 
+ | 61 | 固執 | I'm stubborn | 05 | 意志堅定 | I have strong will | 
  | 86 | 易因尷尬氣氛而感到難受 | I feel uncomfortable with awkward situations | 14 | 善於帶動氣氛 | I'm good at lightening the mood | 
  | 77 | 逃避衝突 | I avoid conflict | 42 | 努力維持良好關係 | I try to keep good relations with others | 
- | 63 | 不聽他人意見 | I do not listen to the opinions of others | 06 | 有自信 | I'm confidently | 
+ | 63 | 不聽他人意見 | I do not listen to the opinions of others | 06 | 有自信 | I'm confident | 
  | 93 | 難以控制情緒 | I have difficulty controlling my emotion | 38 | 善於表達情感 | I express my feelings well | 
  | 89 | 難以拒絕別人 | I have difficulty saying no | 20 | 善於助人 | I'm good at helping others | 
  | 98 | 不喜歡受人控制 | I dislike being controlled | 36 | 追求自由 | I pursue freedom | 
@@ -61,14 +61,15 @@
  | 84 | 過於重視關係 | I'm overly relationship-oriented | 15 | 待人忠誠 | I'm loyal | 
  | 57 | 只著眼客觀資料 | I value only facts | 23 | 能做出客觀判斷 | I can judge objectively | 
  | 70 | 不喜歡標新立異 | I dislike doing things in a new way | 03 | 信守承諾或規則 | I'm reliable | 
- | 76 | 擔心引人注目 | I try not to stand out | 50 | 避免衝突與傷害別人 | I do not harm others |
+ | 76 | 擔心引人注目 | I try not to stand out | 50 | 避免衝突與傷害別人 | I do not harm others | 
  | 53 | 缺乏想像力 | I lack imagination | 21 | 能做分析性思考 | I can think analytically | 
  | 80 | 依賴他人 | I'm dependent on others | 43 | 聆聽及考量他人意見 | I consider other people's opinions | 
  | 87 | 為得到認同而費心 | I try too hard to get recognition from others | 18 | 會感激別人的欣賞鼓勵 | I appreciate compliments and encouragement | 
  | 82 | 容易因關係而受傷 | I often get hurt in relationships | 17 | 重視情感關係 | I value emotional relationship | 
  | 71 | 缺乏自信 | I lack confidence | 44 | 謙虛不自誇 | I'm humble | 
- | 56 | 不喜歡與人合作 | I try to work alone | 25 | 能獨立工作 | I can work independently |  
+ | 56 | 不喜歡與人合作 | I try to work alone | 25 | 能獨立工作 | I can work independently | 
 
+註: 06 有自信 (I'm confidently) 原始卡片的英文文法可能不對, 我改成 I'm confident
 ## 性格類型
 1. 卡片01-10(紅色)
 	- 責任感 Responsibility
