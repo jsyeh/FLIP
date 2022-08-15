@@ -1,50 +1,50 @@
  | 74 | 害羞 | I'm shy | 49 | 待人溫柔 | I'm mild | 
- | 100 | 行動前缺乏深思 | I act without thinking | 32 | 享受自我挑戰 | I enjoy challenging myself | 
+ | 100 | 行動前 缺乏深思 | I act without thinking | 32 | 享受自我挑戰 | I enjoy challenging myself | 
  | 92 | 缺乏一致性 | I lack consistency | 40 | 享受改變 | I enjoy changes | 
- | 72 | 壓抑自我需要 | I suppress what I want to do | 48 | 善於忍耐 | I'm patient | 
- | 62 | 因責任而承受壓力 | I'm stressed out by responsibility | 08 | 責任感強 | I have a strong sense of responsibility | 
- | 64 | 難以容忍雜亂無章 | I can't stand being disorganized | 09 | 善於組織 | I'm good at organizing | 
- | 54 | 花很多時間做決定 | I take too much time to make decisions | 30 | 行動前會認真分析 | I think deeply first and then act | 
- | 97 | 容易失去興趣 | I easily lose interest | 31 | 勇於嘗試新事務 | I'm good at trying new things | 
- | 85 | 為討好他人而費心 | I try too hard to be kind to others | 12 | 待人親切 | I'm kind to other people | 
- | 91 | 容易感到沉悶 | I'm easily bored | 34 | 積極地面對新事物 | I'm energetic | 
- | 67 | 硬銷自己的意見 | I force my opinion on others | 01 | 自信地表達自己 | I express myself confidently | 
- | 81 | 提供過多協助或意見 | I give excessive help or advice to others | 13 | 有顆溫暖的心 | I have a warm heart | 
+ | 72 | 壓抑 自我需要 | I suppress what I want to do | 48 | 善於忍耐 | I'm patient | 
+ | 62 | 因責任而 承受壓力 | I'm stressed out by responsibility | 08 | 責任感強 | I have a strong sense of responsibility | 
+ | 64 | 難以容忍 雜亂無章 | I can't stand being disorganized | 09 | 善於組織 | I'm good at organizing | 
+ | 54 | 花很多時間 做決定 | I take too much time to make decisions | 30 | 行動前 會認真分析 | I think deeply first and then act | 
+ | 97 | 容易 失去興趣 | I easily lose interest | 31 | 勇於嘗試 新事務 | I'm good at trying new things | 
+ | 85 | 為討好他人 而費心 | I try too hard to be kind to others | 12 | 待人親切 | I'm kind to other people | 
+ | 91 | 容易感到沉悶 | I'm easily bored | 34 | 積極地面對 新事物 | I'm energetic | 
+ | 67 | 硬銷 自己的意見 | I force my opinion on others | 01 | 自信地 表達自己 | I express myself confidently | 
+ | 81 | 提供過多 協助或意見 | I give excessive help or advice to others | 13 | 有顆溫暖的心 | I have a warm heart | 
  | 61 | 固執 | I'm stubborn | 05 | 意志堅定 | I have strong will | 
- | 86 | 易因尷尬氣氛而感到難受 | I feel uncomfortable with awkward situations | 14 | 善於帶動氣氛 | I'm good at lightening the mood | 
- | 77 | 逃避衝突 | I avoid conflict | 42 | 努力維持良好關係 | I try to keep good relations with others | 
- | 63 | 不聽他人意見 | I do not listen to the opinions of others | 06 | 有自信 | I'm confident | 
- | 93 | 難以控制情緒 | I have difficulty controlling my emotion | 38 | 善於表達情感 | I express my feelings well | 
- | 89 | 難以拒絕別人 | I have difficulty saying no | 20 | 善於助人 | I'm good at helping others | 
- | 98 | 不喜歡受人控制 | I dislike being controlled | 36 | 追求自由 | I pursue freedom | 
+ | 86 | 易因尷尬氣氛 而感到難受 | I feel uncomfortable with awkward situations | 14 | 善於 帶動氣氛 | I'm good at lightening the mood | 
+ | 77 | 逃避衝突 | I avoid conflict | 42 | 努力維持 良好關係 | I try to keep good relations with others | 
+ | 63 | 不聽 他人意見 | I do not listen to the opinions of others | 06 | 有自信 | I'm confident | 
+ | 93 | 難以 控制情緒 | I have difficulty controlling my emotion | 38 | 善於 表達情感 | I express my feelings well | 
+ | 89 | 難以拒絕 別人 | I have difficulty saying no | 20 | 善於助人 | I'm good at helping others | 
+ | 98 | 不喜歡 受人控制 | I dislike being controlled | 36 | 追求自由 | I pursue freedom | 
  | 99 | 做事前不考慮 | I do not ponder | 37 | 應對快速 | I react quickly | 
- | 79 | 太在意別人的想法 | I care too much about what other people think | 47 | 體貼有禮 | I'm polite | 
- | 95 | 只著眼於自己喜愛的事 | I'm interested in only what I like | 33 | 專注做好自己喜愛的事 | I'm easily absorbed in what I like | 
+ | 79 | 太在意 別人的想法 | I care too much about what other people think | 47 | 體貼有禮 | I'm polite | 
+ | 95 | 只著眼於 自己喜愛的事 | I'm interested in only what I like | 33 | 專注做好 自己喜愛的事 | I'm easily absorbed in what I like | 
  | 94 | 個性獨特 | I have a unique personality | 35 | 好惡分明 | I know my likes and dislikes | 
- | 59 | 難以覺察別人感受 | I'm insensitive to other people's feelings | 27 | 不易受感影響 | I'm not very emotional | 
- | 68 | 缺乏應變能力 | I lack flexibility | 02 | 貫徹始終 | I'm steady and consistent | 
+ | 59 | 難以覺察 別人感受 | I'm insensitive to other people's feelings | 27 | 不易受 情感影響 | I'm not very emotional | 
+ | 68 | 缺乏 應變能力 | I lack flexibility | 02 | 貫徹始終 | I'm steady and consistent | 
  | 78 | 猜疑心重 | I'm suspicious | 45 | 小心行事 | I act carefully | 
- | 90 | 不擅於說出傷人真相 | I'm not good at speaking hurtful truths | 16 | 善於讚賞 | I'm good at giving compliments | 
+ | 90 | 不擅於 說出傷人真相 | I'm not good at speaking hurtful truths | 16 | 善於讚賞 | I'm good at giving compliments | 
  | 58 | 欠缺幽默感 | I do not have a sense of humor | 20 | 沉著冷靜 | I'm calm | 
- | 52 | 過於執著既定計畫 | I'm obsessed with planning | 26 | 做好充分準備 | I'm well prepared | 
+ | 52 | 過於執著 既定計畫 | I'm obsessed with planning | 26 | 做好充分準備 | I'm well prepared | 
  | 51 | 工作狂 | I'm workaholic | 22 | 做事高標準 | I do things to a high standard | 
- | 75 | 糾結於犯錯的可能 | I obsess over what could go wrong | 46 | 不會犯嚴重過錯 | I do not make big mistakes | 
- | 96 | 常做白日夢 | I often daydream | 39 | 善於創意思考 | I'm good at creative thinking | 
- | 83 | 過於大方 | I'm too generous | 11 | 對別人感同身受 | I empathize with others | 
- | 66 | 批判性強烈 | I'm critical | 07 | 善於找到改進的方法 | I'm good at finding ways to improve things | 
- | 55 | 優先考量自己利益 | I think in terms of what I can gain | 24 | 工作有效率 | I work efficiently | 
- | 69 | 支配慾望強烈 | I try to control others | 10 | 善於自制 | I have self control | 
- | 73 | 不強烈維護自身主張 | I do not strongly assert my opinions | 41 | 善於與別人協作 | I'm good at cooperating | 
+ | 75 | 糾結於 犯錯的可能 | I obsess over what could go wrong | 46 | 不會犯 嚴重過錯 | I do not make big mistakes | 
+ | 96 | 常做白日夢 | I often daydream | 39 | 善於 創意思考 | I'm good at creative thinking | 
+ | 83 | 過於大方 | I'm too generous | 11 | 對別人 感同身受 | I empathize with others | 
+ | 66 | 批判性強烈 | I'm critical | 07 | 善於找到 改進的方法 | I'm good at finding ways to improve things | 
+ | 55 | 優先考量 自己利益 | I think in terms of what I can gain | 24 | 工作有效率 | I work efficiently | 
+ | 69 | 支配慾望 強烈 | I try to control others | 10 | 善於自制 | I have self control | 
+ | 73 | 不強烈維護 自身主張 | I do not strongly assert my opinions | 41 | 善於 與別人協作 | I'm good at cooperating | 
  | 65 | 嘗試主導一切 | I try to be dominant | 04 | 優秀的領導者 | I'm a good leader | 
  | 60 | 待人冷漠 | I'm cold to others | 28 | 理性行事 | I act rationally | 
- | 88 | 易在關係中吃虧 | I'm self-sacrificing | 19 | 優先考慮他人 | I put others first | 
- | 84 | 過於重視關係 | I'm overly relationship-oriented | 15 | 待人忠誠 | I'm loyal | 
- | 57 | 只著眼客觀資料 | I value only facts | 23 | 能做出客觀判斷 | I can judge objectively | 
- | 70 | 不喜歡標新立異 | I dislike doing things in a new way | 03 | 信守承諾或規則 | I'm reliable | 
- | 76 | 擔心引人注目 | I try not to stand out | 50 | 避免衝突與傷害別人 | I do not harm others | 
- | 53 | 缺乏想像力 | I lack imagination | 21 | 能做分析性思考 | I can think analytically | 
- | 80 | 依賴他人 | I'm dependent on others | 43 | 聆聽及考量他人意見 | I consider other people's opinions | 
- | 87 | 為得到認同而費心 | I try too hard to get recognition from others | 18 | 會感激別人的欣賞鼓勵 | I appreciate compliments and encouragement | 
- | 82 | 容易因關係而受傷 | I often get hurt in relationships | 17 | 重視情感關係 | I value emotional relationship | 
+ | 88 | 易在關係中 吃虧 | I'm self-sacrificing | 19 | 優先考慮他人 | I put others first | 
+ | 84 | 過於 重視關係 | I'm overly relationship-oriented | 15 | 待人忠誠 | I'm loyal | 
+ | 57 | 只著眼 客觀資料 | I value only facts | 23 | 能做出 客觀判斷 | I can judge objectively | 
+ | 70 | 不喜歡 標新立異 | I dislike doing things in a new way | 03 | 信守承諾 或規則 | I'm reliable | 
+ | 76 | 擔心引人注目 | I try not to stand out | 50 | 避免衝突與 傷害別人 | I do not harm others | 
+ | 53 | 缺乏想像力 | I lack imagination | 21 | 能做 分析性思考 | I can think analytically | 
+ | 80 | 依賴他人 | I'm dependent on others | 43 | 聆聽及考量 他人意見 | I consider other people's opinions | 
+ | 87 | 為得到認同 而費心 | I try too hard to get recognition from others | 18 | 會感激別人的 欣賞鼓勵 | I appreciate compliments and encouragement | 
+ | 82 | 容易因關係 而受傷 | I often get hurt in relationships | 17 | 重視 情感關係 | I value emotional relationship | 
  | 71 | 缺乏自信 | I lack confidence | 44 | 謙虛不自誇 | I'm humble | 
- | 56 | 不喜歡與人合作 | I try to work alone | 25 | 能獨立工作 | I can work independently | 
+ | 56 | 不喜歡 與人合作 | I try to work alone | 25 | 能獨立工作 | I can work independently | 

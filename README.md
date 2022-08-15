@@ -41,7 +41,7 @@
  | 79 | 太在意別人的想法 | I care too much about what other people think | 47 | 體貼有禮 | I'm polite | 
  | 95 | 只著眼於自己喜愛的事 | I'm interested in only what I like | 33 | 專注做好自己喜愛的事 | I'm easily absorbed in what I like | 
  | 94 | 個性獨特 | I have a unique personality | 35 | 好惡分明 | I know my likes and dislikes | 
- | 59 | 難以覺察別人感受 | I'm insensitive to other people's feelings | 27 | 不易受感影響 | I'm not very emotional | 
+ | 59 | 難以覺察別人感受 | I'm insensitive to other people's feelings | 27 | 不易受情感影響 | I'm not very emotional | 
  | 68 | 缺乏應變能力 | I lack flexibility | 02 | 貫徹始終 | I'm steady and consistent | 
  | 78 | 猜疑心重 | I'm suspicious | 45 | 小心行事 | I act carefully | 
  | 90 | 不擅於說出傷人真相 | I'm not good at speaking hurtful truths | 16 | 善於讚賞 | I'm good at giving compliments | 
@@ -116,6 +116,10 @@ void draw(){
   
 }
 ```
+
+接下來把卡片畫出來
+
+![demo](demo.png)
 
 ## 性格類型
 1. 卡片01-10(紅色)
