@@ -22,7 +22,7 @@
  | 100 | 行動前缺乏深思 | I act without thinking | 32 | 享受自我挑戰 | I enjoy challenging myself | 
  | 92 | 缺乏一致性 | I lack consistency | 40 | 享受改變 | I enjoy changes | 
  | 72 | 壓抑自我需要 | I suppress what I want to do | 48 | 善於忍耐 | I'm patient | 
- | 62 | 因素任而承受壓力 | I'm stressed out by responsibility | 08 | 責任感強 | I have a strong sense of responsibility | 
+ | 62 | 因責任而承受壓力 | I'm stressed out by responsibility | 08 | 責任感強 | I have a strong sense of responsibility | 
  | 64 | 難以容忍雜亂無章 | I can't stand being disorganized | 09 | 善於組織 | I'm good at organizing | 
  | 54 | 花很多時間做決定 | I take too much time to make decisions | 30 | 行動前會認真分析 | I think deeply first and then act | 
  | 97 | 容易失去興趣 | I easily lose interest | 31 | 勇於嘗試新事務 | I'm good at trying new things | 
@@ -70,6 +70,53 @@
  | 56 | 不喜歡與人合作 | I try to work alone | 25 | 能獨立工作 | I can work independently | 
 
 註: 06 有自信 (I'm confidently) 原始卡片的英文文法可能不對, 我改成 I'm confident
+
+## 卡片程式
+想寫程式方便呈現卡片, 建立資料結構後, 使用 Processing 及 java.util 來讀入並排序卡片的內容。
+
+TODO: 之後可以把卡片畫出來、亂數洗牌、讓玩家挑選卡片、進行互動等。
+
+```processing
+import java.util.Collections;
+import java.util.Comparator;
+class Card {
+  int id, id_flip;
+  String zh;
+  String en;
+  Card(String _id, String _zh, String _en, String _id_flip) {
+    id = int(_id);
+    zh = new String(_zh);
+    en = new String(_en);
+    id_flip = int(_id_flip);
+  }
+}
+class CardSort implements Comparator<Card> {
+  public int compare(Card a, Card b){
+    return a.id - b.id;
+  }
+}
+ArrayList<Card> cards;
+void setup(){
+  size(500,500);
+  cards = new ArrayList<Card>();
+  String [] lines = loadStrings("card.txt");
+  for( String line : lines ){
+    String [] fields = split(line, " | ");
+    cards.add( new Card(fields[1], fields[2], fields[3], fields[4]) );
+    cards.add( new Card(fields[4], fields[5], fields[6], fields[1]) );
+  }
+  Collections.sort( cards, new CardSort() );
+  for( Card c : cards ){
+    print(c.id, c.zh, c.en, "--- ");
+    Card c2 = cards.get(c.id_flip-1);
+    println(c2.id, c2.zh, c2.en);
+  }
+}
+void draw(){
+  
+}
+```
+
 ## 性格類型
 1. 卡片01-10(紅色)
 	- 責任感 Responsibility
